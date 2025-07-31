@@ -1,1 +1,1 @@
-# glass-morphism-website
+This project is a code-along demonstrating html and css skills. The goal with this project is to refine what knowledge I have currently while continuing to learn new skills. Practice good commits and clean code. :)
